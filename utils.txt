@@ -1,0 +1,19 @@
+<!-- links -->
+      <ul class="links">
+        <li>
+          <a href="home-html">Home</a>
+        </li>
+        <li>
+          <a href="dance-html">Traditional Dance</a>
+        </li>
+        <li>
+          <a href="food-html">Traditional Food</a>
+        </li>
+         <li>
+          <a href="culture-html">Culture</a>
+        </li>
+        <li>
+          <a href="known-html">What the Philippines is Known For</a>
+        </li>
+      </ul>
+      
